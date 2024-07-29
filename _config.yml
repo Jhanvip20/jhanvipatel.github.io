@@ -1,5 +1,11 @@
 title: Jhanvi Patel
 logo: /assets/img/profile_pic.jpg
-#description: text below image
+description: Master of Data Science at Gannon University | Data Engineer | Embedded Systems | Python, Statistics, AWS, ML Algorithms, Deep learning, AI Models.
 show_downloads: true
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-assets
+
+assets:
+  sources:
+    - _assets/css/styles.css
