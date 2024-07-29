@@ -1,8 +1,8 @@
+![Data Engineer][/assets/img/cover_photo.jpeg]
 # Data Engineer
 
 ## WORK EXPERIENCE
-**Graduate Assistant @ Gannon University Erie, USA (_Sept 2022 – May 2024_).**
-  - Innovated student engagement strategies with Dr. Liu, integrating digital tools that increased participation and elevated performance assessment accuracy by 25%.
+**Gradu ated student engagement strategies with Dr. Liu, integrating digital tools that increased participation and elevated performance assessment accuracy by 25%.
   - Transformed robust dashboards using Adobe XD and Tableau, improving data accessibility for 100+ users and reducing data analysis time by 18%.
   - Engineered an advanced real-time dashboard in Python; upgraded data analysis accuracy by leveraging Pandas, NumPy, and Matplotlib, leading to a 20% reduction in reporting time.
   - Executed machine learning models for data analytics using Python and TensorFlow, improving threat detection efficiency and accuracy of data analysis by 38%.
@@ -42,7 +42,7 @@
 M.Sc., Data Science | Gannon University, Erie(_May 2024_).
 B.E., Information Technology | Gujarat Technological University Gujarat, India (_Jun 2018_).
 
-## AREA OF EXPERTISE
+## PROFESSIONAL EXPERTISE
   - **Programming Languages:** Python, Java, JavaScript, R, MySQL.
   - **Tools:** Tableau, Power BI, Qilk Sense, PyTorch, PyCharm, Pyint, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, OpenAI GPT-4, TensorFlow, SVM, NLP Services, MS-Excel.
   - **DBs and Infrastructures:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure.
