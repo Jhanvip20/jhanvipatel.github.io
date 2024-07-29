@@ -1,4 +1,4 @@
-![Data Engineer][/assets/img/cover_photo.jpeg]
+![Data Engineer](/assets/img/cover_photo.jpeg)
 # Data Engineer
 
 ## WORK EXPERIENCE
