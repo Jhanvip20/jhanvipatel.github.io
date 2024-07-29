@@ -5,7 +5,7 @@
   - My skills include Machine Learning, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and analytics.
 
 ## WORK EXPERIENCE
-**Graduate Research Assistant @ Gannon University, Erie (_Sept 2022 – May 2024_).**
+**Graduate Research Assistant @ Gannon University - Erie, USA (_Sept 2022 – May 2024_).**
   - Collaborated on student engagement strategies with Dr. Liu, integrating digital tools that increased participation by 25% and elevated performance assessment accuracy by 25%.
   - Created dashboards using Adobe XD and Tableau, improving data accessibility for over 100 users and reducing data analysis time by 18%.
   - Developed a real-time dashboard in Python, leveraging Pandas, NumPy, and Matplotlib to enhance data analysis accuracy, resulting in a 20% reduction in reporting time.
@@ -13,7 +13,7 @@
   - Utilized MySQL and other database tools like PostgreSQL and MongoDB to optimize data management and processing workflows.
   - Conducted research on Predicting Severity Factors (SF) in AI-based Software Applications, contributing to advancements in the field.
     
-**Software Development Engineer – 1 @ Microchip Technology Pvt Ltd Bangalore, India (_Aug 2019 – Jul 2022_).**
+**Software Development Engineer – 1 @ Microchip Technology Pvt Ltd - Bangalore, India (_Aug 2019 – Jul 2022_).**
   - Designed the META-DX1 and META-DX2 systems with new APIs and refined the functionality, executing up to 92% accuracy through sophisticated statistical analyses using Python and R.
   - Revamped data quality and usability for microprocessor controllers by 5.6% and 7.2%, respectively, by implementing thorough testing and preprocessing strategies,  including unit tests and data normalization.
   - Implemented detailed security tests on Ethernet communications, scrutinizing encryption protocols (AES and RSA) and network defenses (firewalls and intrusion detection systems); secured data transmission.
@@ -21,28 +21,32 @@
   - Executed SQL and database technologies like MySQL, PostgreSQL, and MongoDB for efficient data management and processing, including ETL workflows, database indexing, and performance tuning.
   - Created a Python script using AES encryption, increasing data security and integrity by 11%.
 
-[METADX2](https://www.microchip.com/en-us/products/high-speed-networking-and-video/ethernet/ethernet-phys/meta-dx-family) | 
-[METADX1](https://www.youtube.com/watch?v=fQypK7NLEBA&ab_channel=MicrosemiCorp) | 
+[META-DX2](https://www.microchip.com/en-us/products/high-speed-networking-and-video/ethernet/ethernet-phys/meta-dx-family) | 
+[META-DX1](https://www.youtube.com/watch?v=fQypK7NLEBA&ab_channel=MicrosemiCorp) | 
 [METADX1_OVERVIEW](https://www.youtube.com/watch?v=yV0kBfQP8Po&ab_channel=MicrochipTechnology)
 
-**Embedded System Engineer @ Vector India Pvt Ltd Bangalore, India (_Jul 2018 – Aug 2019_).**
+**Embedded System Engineer @ Vector India Pvt Ltd - Bangalore, India (_Jul 2018 – Aug 2019_).**
   - Designed firmware for embedded systems using tools like PyCharm, ARM assembly, C, and C++; raised processing speed by 20% and reduced power consumption.
   - Formulated applications using PyCharm, ARM assembly, C, and C++, solving real-time challenges and increasing operational efficiency.
   - Reconstructed memory management systems, using SQL and database tools like MySQL, PostgreSQL, and MongoDB, improving data integrity and communication speed by 15%.
 
 ## PROJECTS | PUBLICATIONS
 **Predicting Severity Factors (SF) in AI-based Software Applications(_Aug 2023 – May 2024_).**
-**Platforms:** Radon, Pylint, PyCharm, MySQL, Jupyter Notebook, SVM Model, Microsoft Excel, Panel, OpenAI GPT4
-  - Innovated the Predict Severity Factor (SF) to classify software components into four categories: Low, Medium, High, and Severe, leading to a 60% improvement in code quality by prioritizing refactoring tasks.
-  - Created custom tools using Radon and Pylint to assess technical debt in eight open-source Python projects, pinpointing areas in need of improvement by more than 80%.
-  - Revolutionized development workflow by integrating Large Language Models (LLMs), automating complex code refactoring tasks, reducing technical debt by 40%, and saving the development team 60+ hours per month.
+**Platforms:** Radon, Pylint, PyCharm, MySQL, MongoDB, PostgreSQL Jupyter Notebook, SVM Model, LLM, Microsoft Excel, Panel, OpenAI GPT4
+  - Developed the Predict Severity Factor (SF) to classify software components into Low, Medium, High, and Severe categories, improving code quality by 60% through prioritized refactoring tasks.
+  - Created custom tools using Radon and Pylint to assess technical debt in eight open-source Python projects, identifying improvement areas by over 80%.
+  - Integrated Large Language Models (LLMs) into the development workflow, automating complex code refactoring tasks, reducing technical debt by 40%, and saving the development team 60+ hours per month.
+  - Implemented SQL queries, including MySQL, PostgreSQL, and MongoDB, for efficient data management and processing, such as query optimization, data migration, and performance tuning.
 
 ![IEEE Conference](/assets/img/ieee.jpeg)
 
 **Real-Time Student Analytics Dashboard for Graduate Program (_Feb 2023 – Apr 2023_).**
-**Platforms:** Tableau, MySQL, Python, NumPy, Pandas, AWS Cloud, Excel.
-  - Built a real-time student analytics dashboard, improving navigation and access by 38%.
-  - Used Python and Business Intelligence tools to boost real-time student data analysis, increasing insights and decisions by 25%.
+**Platforms:** Tableau, MySQL, Python, NumPy, Pandas, AWS Cloud, PostgreSQL, MongoDB, Excel.
+  - Built a real-time student analytics dashboard using Python, SQL, MySQL, PostgreSQL, and MongoDB, which improved navigation and access by 38%.
+  - Employed Pandas, NumPy, and Matplotlib within Python to process and visualize student data, enhancing real-time data analysis capabilities.
+  - Integrated Tableau for comprehensive Business Intelligence reporting, increasing insights and data-driven decision-making by 25%.
+  - Utilized ETL processes to streamline data integration from various sources into the dashboard, ensuring up-to-date and accurate information.
+  - Developed and optimized complex SQL queries for efficient data retrieval and analysis, improving overall system performance and user satisfaction.
 
 **Real-Time Weather Monitoring System Using Embedded C (_Jul 2019 – Aug 2019_).**
 **Platforms:** LPC2148, DS1621, DS1307, MCP3208, AT24C0.
