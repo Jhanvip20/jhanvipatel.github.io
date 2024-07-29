@@ -1,5 +1,5 @@
 ## Hello,
-  - I have recently graduated a Master of Data Science from Gannon University, specializing in Artificial Intelligence. With six years of experience as a Data Engineer, I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python.
+  - I have recently graduated a Master of Data Science from Gannon University, specializing in Artificial Intelligence. With six years of experience as a Data Engineer, I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python, MySQL.
   - As a Graduate Assistant, I developed a Student Dashboard for the Computer Science Department, boosting data analysis accuracy by 38%, and enhanced admissions data management. My project on extracting insights from large datasets increased performance assessment accuracy by 72%.
   - Previously, at Microchip Technology, I focused on Data Engineering and Security. I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
   - My skills include Machine Learning, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and analytics.
@@ -21,8 +21,8 @@
   - Executed SQL and database technologies like MySQL, PostgreSQL, and MongoDB for efficient data management and processing, including ETL workflows, database indexing, and performance tuning.
   - Created a Python script using AES encryption, increasing data security and integrity by 11%.
 
-[METADX2](https://www.microchip.com/en-us/products/high-speed-networking-and-video/ethernet/ethernet-phys/meta-dx-family)
-[METADX1](https://www.youtube.com/watch?v=fQypK7NLEBA&ab_channel=MicrosemiCorp)
+[METADX2](https://www.microchip.com/en-us/products/high-speed-networking-and-video/ethernet/ethernet-phys/meta-dx-family) | 
+[METADX1](https://www.youtube.com/watch?v=fQypK7NLEBA&ab_channel=MicrosemiCorp) | 
 [METADX1_OVERVIEW](https://www.youtube.com/watch?v=yV0kBfQP8Po&ab_channel=MicrochipTechnology)
 
 **Embedded System Engineer @ Vector India Pvt Ltd Bangalore, India (_Jul 2018 – Aug 2019_).**
