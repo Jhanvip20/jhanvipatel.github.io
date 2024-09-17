@@ -1,7 +1,7 @@
 ## Hello,
   - I have recently graduated Master of Data Science from Gannon University, specializing in Artificial Intelligence. With six years of experience as a Data Engineer, I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python, MySQL.
   - As a Graduate Assistant, I developed a Student Dashboard for the Computer Science Department, boosting data analysis accuracy by 38%, and enhanced admissions data management. My project on extracting insights from large datasets increased performance assessment accuracy by 72%.
-  - Previously, at Microchip Technology, I focused on Data Engineering and Security. I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
+  - Previously, at Microchip Technology Inc., I focused on Data Engineering and Security. I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
   - My skills include Machine Learning, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and analytics.
 
 ## WORK EXPERIENCE
