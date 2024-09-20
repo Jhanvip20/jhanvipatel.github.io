@@ -1,6 +1,6 @@
 ## Hello,
-  - I have recently graduated Master of Data Science from Gannon University, specializing in Artificial Intelligence. With six years of experience as a Data Engineer, I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python, MySQL.
-  - As a Graduate Assistant, I developed a Student Dashboard for the Computer Science Department, boosting data analysis accuracy by 38%, and enhanced admissions data management. My project on extracting insights from large datasets increased performance assessment accuracy by 72%.
+  - Data Engineer with 7 years of IT experience, specializing in scalable data solutions, developing machine learning algorithms to enhance python development and cloud technologies. At Credit Union, USA, I built ETL pipelines processing 10M+ records daily, reducing ingestion times by 25%, and implemented real-time data pipelines with Kafka and AWS Redshift, cutting latency by 40%. I’ve also automated workflows using Airflow and AWS Lambda, improving scalability by 30% and reducing costs by 15%
+  - I hold a Master’s in Data Science from Gannon University, specializing in AI, As a Graduate Assistant, I led the creation of a Student Dashboard, boosting data analysis accuracy by 38%, and improved admissions processes, increasing performance accuracy by 72%. I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python, MySQL.
   - Previously, at Microchip Technology Inc., I focused on Data Engineering and Security. I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
   - My skills include Machine Learning, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and analytics.
 
@@ -11,7 +11,15 @@
   - Developed a real-time dashboard in Python, leveraging Pandas, NumPy, and Matplotlib to enhance data analysis accuracy, resulting in a 20% reduction in reporting time.
   - Executed machine learning models for data analytics using Python and TensorFlow, including models such as Random Forest, Support Vector MAchine (SVM), and Large Language Model (LLM), increasing threat detection efficiency and data analysis accuracy by 38%.
   - Utilized MySQL and other database tools like PostgreSQL and MongoDB to optimize data management and processing workflows.
-    
+
+**Data Engineer @ Credit Union, USA (_Sept 2023 – Present_).**
+  - Engineered and optimized scalable ETL pipelines using PySpark and AWS Glue, processing over 10 million records daily, reducing data ingestion time by 25%, and lowering operational costs by 20%.
+  - Built and deployed real-time data pipelines using Kafka, Spark Streaming, and AWS Redshift, achieving a 40% reduction in data latency and a 35% increase in processing speed for data-driven applications.
+  - Optimized query performance in AWS Redshift by applying advanced partitioning and distribution strategies, reducing data retrieval times by 30%.
+  - Automated data workflows using Apache Airflow, enhancing pipeline efficiency by 25%, reducing manual intervention by 40%, and ensuring 99% on-time data delivery to over 50 stakeholders.
+  - Implemented AWS Lambda for event-driven data processing, improving system scalability by 30% and reducing operational costs by 15% through automated orchestration of serverless functions.
+  - Designed and implemented data retention policies using AWS S3 lifecycle rules, reducing data storage costs by 18% while ensuring compliance with industry standards and improving resource utilization.
+
 **Software Development Engineer – 1 @ Microchip Technology Pvt Ltd - Bangalore, India (_Aug 2019 – Jul 2022_).**
   - Designed the META-DX1 and META-DX2 systems with new APIs and refined the functionality, executing up to 92% accuracy through sophisticated statistical analyses using Python and R.
   - Revamped data quality and usability for microprocessor controllers by 5.6% and 7.2%, respectively, by implementing thorough testing and preprocessing strategies,  including unit tests and data normalization.
