@@ -20,7 +20,7 @@
   - Developed a real-time dashboard in Python, leveraging Pandas, NumPy, and Matplotlib to enhance data analysis accuracy, resulting in a 20% reduction in reporting time.
   - Executed machine learning models for data analytics using Python and TensorFlow, including models such as Random Forest, Support Vector MAchine (SVM), and Large Language Model (LLM), increasing threat detection efficiency and data analysis accuracy by 38%.
   - Utilized MySQL and other database tools like PostgreSQL and MongoDB to optimize data management and processing workflows.
-  - 
+ 
 **Software Development Engineer – 1 @ Microchip Technology Pvt Ltd - Bangalore, India (_Aug 2019 – Jul 2022_).**
   - Designed the META-DX1 and META-DX2 systems with new APIs and refined the functionality, executing up to 92% accuracy through sophisticated statistical analyses using Python and R.
   - Revamped data quality and usability for microprocessor controllers by 5.6% and 7.2%, respectively, by implementing thorough testing and preprocessing strategies,  including unit tests and data normalization.
