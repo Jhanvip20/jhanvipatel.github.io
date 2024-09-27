@@ -64,8 +64,8 @@
 
 ## EDUCATION
  
-M.Sc., Data Science | Gannon University, Erie(_May 2024_).
-B.E., Information Technology | Gujarat Technological University Gujarat, India (_Jun 2018_).
+M.Sc., Data Science | Gannon University, Erie.
+B.E., Information Technology | Gujarat Technological University Gujarat, India.
 
 ## PROFESSIONAL EXPERTISE
   - **Programming Languages:** Python, Java, JavaScript, R, MySQL.
