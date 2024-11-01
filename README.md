@@ -6,7 +6,7 @@
 
 ## WORK EXPERIENCE
 
-**Data Engineer @ Credit Union, USA (_Sept 2023 – Present_).**
+**Data Engineer @ Credit Union, USA (_Jan 2023 – Present_).**
   - Engineered and optimized scalable ETL pipelines using PySpark and AWS Glue, processing over 10 million records daily, reducing data ingestion time by 25%, and lowering operational costs by 20%.
   - Built and deployed real-time data pipelines using Kafka, Spark Streaming, and AWS Redshift, achieving a 40% reduction in data latency and a 35% increase in processing speed for data-driven applications.
   - Optimized query performance in AWS Redshift by applying advanced partitioning and distribution strategies, reducing data retrieval times by 30%.
@@ -75,6 +75,8 @@ B.E., Information Technology | Gujarat Technological University Gujarat, India.
   - **Development Skills:** Data structures and Algorithms, Linux, GDB Debugging, Microsoft Office 365.
 
 ## AWARDS AND CERTIFICATIONS
+  - HackerRank Python. [Publication](https://www.hackerrank.com/certificates/3557e3a027d0)
+  - HackerRank SQL. [Publication](https://www.hackerrank.com/certificates/b4cea41dd308)
   - AWS Cloud Practitioner Foundational. [Publication](https://www.credly.com/badges/ad6ff744-3df3-4d6d-812c-8b0ce23559dc/linked_in_profile)
   - Python Programming for Beginners in Data Science, Udemy.[Publication](https://www.udemy.com/certificate/UC-dd9791dd-0c2f-468f-8381-2bc3a190ca5b/)
   - The Beginners Guide to Cyber Security 2020, Udemy. [Publication](https://www.udemy.com/certificate/UC-7e8d1678-d0a4-4c5b-a1a9-1335e420f5e5/)
