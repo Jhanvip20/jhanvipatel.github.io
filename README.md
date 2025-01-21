@@ -6,7 +6,7 @@
 
 ## WORK EXPERIENCE
 
-**Data Engineer @ Outlier AI, USA (_Jan 2023 – Present_).**
+**Data Engineer @ Outlier AI, USA (_Jan 2024 – Present_).**
   - Engineered and optimized scalable ETL pipelines using PySpark and AWS Glue, processing over 10 million records daily, reducing data ingestion time by 25%, and lowering operational costs by 20%.
   - Built and deployed real-time data pipelines using Kafka, Spark Streaming, and AWS Redshift, achieving a 40% reduction in data latency and a 35% increase in processing speed for data-driven applications.
   - Optimized query performance in AWS Redshift by applying advanced partitioning and distribution strategies, reducing data retrieval times by 30%.
