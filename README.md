@@ -76,6 +76,7 @@ B.E., Information Technology | Gujarat Technological University Gujarat, India.
 
 ## AWARDS AND CERTIFICATIONS
   - HackerRank Python. [Publication](https://www.hackerrank.com/certificates/3557e3a027d0)
+  - HackerRank Advanced SQL [Publication](https://www.hackerrank.com/certificates/9fc3908d70cb)
   - HackerRank SQL. [Publication](https://www.hackerrank.com/certificates/b4cea41dd308)
   - AWS Cloud Practitioner Foundational. [Publication](https://www.credly.com/badges/ad6ff744-3df3-4d6d-812c-8b0ce23559dc/linked_in_profile)
   - Python Programming for Beginners in Data Science, Udemy.[Publication](https://www.udemy.com/certificate/UC-dd9791dd-0c2f-468f-8381-2bc3a190ca5b/)
