@@ -1,12 +1,12 @@
 ## Hello,
-  - Data Engineer with 7 years of IT experience, specializing in scalable data solutions, developing machine learning algorithms to enhance python development and cloud technologies. At Outlier AI, USA, I built ETL pipelines processing 10M+ records daily, reducing ingestion times by 25%, and implemented real-time data pipelines with Kafka and AWS Redshift, cutting latency by 40%. I’ve also automated workflows using Airflow and AWS Lambda, improving scalability by 30% and reducing costs by 15%.
+  - Data Engineer with 9 years of IT experience, specializing in scalable data solutions, developing machine learning algorithms to enhance python development and cloud technologies. At Outlier AI, USA, I built ETL pipelines processing 10M+ records daily, reducing ingestion times by 25%, and implemented real-time data pipelines with Kafka and AWS Redshift, cutting latency by 40%. I’ve also automated workflows using Airflow and AWS Lambda, improving scalability by 30% and reducing costs by 15%.
   - I hold a Master’s in Data Science from Gannon University, specializing in AI, As a Graduate Assistant, I led the creation of a Student Dashboard, boosting data analysis accuracy by 38%, and improved admissions processes, increasing performance accuracy by 72%. Also, I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python, MySQL.
   - Previously, at Microchip Technology Inc., I focused on Data Engineering and Security. I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
   - My skills include Machine Learning, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and analytics.
 
 ## WORK EXPERIENCE
 
-**Associate Software Data Engineer @ Outlier AI, USA (_Jan 2024 – Present_).**
+**Associate Software Data Engineer @ Outlier AI, USA (_May 2023 – Present_).**
   - Engineered and optimized scalable ETL pipelines using PySpark and AWS Glue, processing over 10 million records daily, reducing data ingestion time by 25%, and lowering operational costs by 20%.
   - Built and deployed real-time data pipelines using Kafka, Spark Streaming, and AWS Redshift, achieving a 40% reduction in data latency and a 35% increase in processing speed for data-driven applications.
   - Optimized query performance in AWS Redshift by applying advanced partitioning and distribution strategies, reducing data retrieval times by 30%.
@@ -21,7 +21,7 @@
   - Executed machine learning models for data analytics using Python and TensorFlow, including models such as Random Forest, Support Vector MAchine (SVM), and Large Language Model (LLM), increasing threat detection efficiency and data analysis accuracy by 38%.
   - Utilized MySQL and other database tools like PostgreSQL and MongoDB to optimize data management and processing workflows.
  
-**Software Development Engineer – 1 @ Microchip Technology Pvt Ltd - Bangalore, India (_Aug 2019 – Jul 2022_).**
+**Software Development Engineer – II @ Microchip Technology Pvt Ltd - Bangalore, India (_Aug 2019 – Jul 2022_).**
   - Designed the META-DX1 and META-DX2 systems with new APIs and refined the functionality, executing up to 92% accuracy through sophisticated statistical analyses using Python and R.
   - Revamped data quality and usability for microprocessor controllers by 5.6% and 7.2%, respectively, by implementing thorough testing and preprocessing strategies,  including unit tests and data normalization.
   - Implemented detailed security tests on Ethernet communications, scrutinizing encryption protocols (AES and RSA) and network defenses (firewalls and intrusion detection systems); secured data transmission.
@@ -33,10 +33,25 @@
 [META-DX1](https://www.youtube.com/watch?v=fQypK7NLEBA&ab_channel=MicrosemiCorp) | 
 [METADX1_OVERVIEW](https://www.youtube.com/watch?v=yV0kBfQP8Po&ab_channel=MicrochipTechnology)
 
-**Embedded System Engineer @ Vector India Pvt Ltd - Bangalore, India (_Jul 2018 – Aug 2019_).**
+**Software System Engineer @ Vector India Pvt Ltd - Bangalore, India (_Aug 2018 – Aug 2019_).**
   - Designed firmware for embedded systems using tools like PyCharm, ARM assembly, C, and C++; raised processing speed by 20% and reduced power consumption.
   - Formulated applications using PyCharm, ARM assembly, C, and C++, solving real-time challenges and increasing operational efficiency.
   - Reconstructed memory management systems, using SQL and database tools like MySQL, PostgreSQL, and MongoDB, improving data integrity and communication speed by 15%.
+
+**Data solutions Engineer @ Redspark Technologies - Vadodara, India (_Feb 2018 - Jul 2018_).**
+  - Coordinated in the development and Analysis of Python-based applications.
+  - Developed real-time analytics dashboards for underwriting data, using Power BI, SQL, and Python, improving decision-making efficiency by 30%.
+  - Assisted in process improvement initiatives by conducting data analysis on underwriting workflows, leading to a 20% reduction in processing time.
+  - Provided research-based recommendations for new technologies to enhance business operations and underwriting efficiency.
+  - Acquired practical knowledge of Python frameworks and database management.
+
+**Software Engineer Intern @ Dev Infotech - Vadodara, India (_Jul 2016 - Jun 2018_).**
+- Designed and implemented front-end components using HTML, CSS, and PHP, ensuring a responsive and user-friendly interface.
+- Utilized MySQL to design and manage relational databases for storing institute, course, and user registration data.
+- Applied Data Structures to organize and manage data efficiently, improving system performance.
+- Conducted basic data analysis using Big Data concepts to identify usage trends and optimize content delivery.
+- Supported backend logic development and integration, contributing to seamless data flow and user interaction.
+- Gained foundational experience in Python and SQL scripting for data handling and task automation.
 
 ## PROJECTS | PUBLICATIONS
 **Predicting Severity Factors (SF) in AI-based Software Applications(_Aug 2023 – May 2024_).**
