@@ -14,7 +14,7 @@
   - Implemented AWS Lambda for event-driven data processing, improving system scalability by 30% and reducing operational costs by 15% through automated orchestration of serverless functions.
   - Designed and implemented data retention policies using AWS S3 lifecycle rules, reducing data storage costs by 18% while ensuring compliance with industry standards and improving resource utilization.
 
-**Graduate Research Assistant @ Gannon University - Erie, USA (_Sept 2022 – May 2024_).**
+**Graduate Research Assistant @ Gannon University - Pennsylvaina, USA (_Sept 2022 – May 2024_).**
   - Collaborated on student engagement strategies, integrating digital tools that increased participation by 25% and elevated performance assessment accuracy by 25%. Additionally, conducted research on Predicting Severity Factors (SF) in AI-based Software Applications, contributing to advancements in the field.
   - Created dashboards using Adobe XD and Tableau, improving data accessibility for over 100 users and reducing data analysis time by 18%.
   - Developed a real-time dashboard in Python, leveraging Pandas, NumPy, and Matplotlib to enhance data analysis accuracy, resulting in a 20% reduction in reporting time.
@@ -76,6 +76,12 @@
   - Modernized data acquisition and logging system by integrating LPC2148 Microcontroller, updating RTX configuration file, and incorporating RL-ARM library; Completed real-time operating system functionality, improving data accuracy by approximately a quarter.
   - Defined and enacted OS tasks for modules like DS1621, DS1307, and MCP3208, acquiring data using I2C and SPI protocols, enhancing system efficiency, and data accuracy.
   - Maximized data relay to the display unit using a serial terminal and 16x2LCD; deployed AT24C08 for hourly data logging, enhancing data precision and analysis by 30%.
+
+**Live Project: System for Employment and Educational Knowledge Portal (_Jul 2016 – Jul 2018_).**
+**Platforms:** Python, MySQL, PHP, HTML, DSA, Big Data Analytics.
+- Designed and implemented front-end components using HTML, CSS, and PHP, ensuring a responsive and user-friendly interface.
+- Deployed and evaluated Advanced Data structure, improving data processing speed by 22%.
+- Created data pipelines with MySQL, improving backend logic development and integration, contributing to seamless data flow and user interaction.
 
 ## EDUCATION
  
