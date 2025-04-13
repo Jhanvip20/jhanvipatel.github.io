@@ -85,7 +85,7 @@
 
 ## EDUCATION
  
-M.Sc., Data Science | Gannon University, Erie.
+M.Sc., Data Science | Gannon University, Erie, Pennsylvaina, USA.
 B.E., Information Technology | Gujarat Technological University Gujarat, India.
 
 ## PROFESSIONAL EXPERTISE
