@@ -46,7 +46,7 @@
   - Acquired practical knowledge of Python frameworks and database management.
 
 **Software Engineer Intern @ Dev Infotech - Vadodara, India (_Jul 2016 - Jun 2018_).**
-- Designed and implemented front-end components using HTML, CSS, and PHP, ensuring a responsive and user-friendly interface.
+- Designed and implemented front-end components using HTML5, CSS, and PHP, ensuring a responsive and user-friendly interface.
 - Utilized MySQL to design and manage relational databases for storing institute, course, and user registration data.
 - Applied Data Structures to organize and manage data efficiently, improving system performance.
 - Conducted basic data analysis using Big Data concepts to identify usage trends and optimize content delivery.
