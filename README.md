@@ -6,7 +6,7 @@
 
 ## WORK EXPERIENCE
 
-**Associate Software Data Engineer @ Outlier AI, USA (_May 2023 – Present_).**
+**Software Data Engineer @ Outlier AI, USA (_Jan 2024 – Present_).**
   - Engineered and optimized scalable ETL pipelines using PySpark and AWS Glue, processing over 10 million records daily, reducing data ingestion time by 25%, and lowering operational costs by 20%.
   - Built and deployed real-time data pipelines using Kafka, Spark Streaming, and AWS Redshift, achieving a 40% reduction in data latency and a 35% increase in processing speed for data-driven applications.
   - Optimized query performance in AWS Redshift by applying advanced partitioning and distribution strategies, reducing data retrieval times by 30%.
@@ -21,7 +21,7 @@
   - Executed machine learning models for data analytics using Python and TensorFlow, including models such as Random Forest, Support Vector MAchine (SVM), and Large Language Model (LLM), increasing threat detection efficiency and data analysis accuracy by 38%.
   - Utilized MySQL and other database tools like PostgreSQL and MongoDB to optimize data management and processing workflows.
  
-**Software Development Engineer – II @ Microchip Technology Pvt Ltd - Arizona, USA (_Aug 2019 – Jul 2022_).**
+**Software Development Engineer – II @ Microchip Technology Pvt Ltd - Bangalore, India(_Aug 2019 – Jul 2022_).**
   - Designed the META-DX1 and META-DX2 systems with new APIs and refined the functionality, executing up to 92% accuracy through sophisticated statistical analyses using Python and R.
   - Revamped data quality and usability for microprocessor controllers by 5.6% and 7.2%, respectively, by implementing thorough testing and preprocessing strategies,  including unit tests and data normalization.
   - Implemented detailed security tests on Ethernet communications, scrutinizing encryption protocols (AES and RSA) and network defenses (firewalls and intrusion detection systems); secured data transmission.
