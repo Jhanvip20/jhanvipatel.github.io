@@ -1,42 +1,66 @@
 ## Hello,
-  - Data Engineer with 7+ years of IT experience, specializing in scalable data solutions, developing machine learning algorithms to enhance python development and cloud technologies. At Outlier AI, USA, I built ETL pipelines processing 10M+ records daily, reducing ingestion times by 25%, and implemented real-time data pipelines with Kafka and AWS Redshift, cutting latency by 40%. I’ve also automated workflows using Airflow and AWS Lambda, improving scalability by 30% and reducing costs by 15%.
-  - I hold a Master’s in Data Science from Gannon University, specializing in AI, As a Graduate Assistant, I led the creation of a Student Dashboard, boosting data analysis accuracy by 38%, and improved admissions processes, increasing performance accuracy by 72%. Also, I excel in machine learning, data processing, and matrix optimization using tools like PyCharm, Pandas, and Python, MySQL.
-  - Previously, at Microchip Technology Inc., I focused on Data Engineering and Security. I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
-  - My skills include Machine Learning, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and analytics.
+  - Software and QA Engineer with 7+ years in IT, Data Engineering, specializing in AR/VR testing, embedded systems, and scalable data solutions. Skilled in manual and automation QA, debugging with GDB, and building secure, high-performance applications using Python, C, Java, and cloud platforms (AWS, Azure). Strong background in testing smart devices, Linux drivers, and networking protocols (PTP/NTP). Passionate about delivering reliable, immersive tech experiences. I have strong familiarity with IBM mainframe technologies, including Software AG Natural and ADABAS, debugging skills using GDB, and hardware-level debugging tools. I also developed secure systems using C, Python, Java, PyTorch, machine learning models, and Linux, enhancing encryption protocols, device drivers, networking protocols (PTP, NTP), and ARM-based architectures. 
+  -   I hold a Master’s in Data Science from Gannon University, specializing in AI. As a Graduate Assistant, I led the creation of a Student Dashboard, which boosted data analysis accuracy by 38%, improved admissions processes, increased performance accuracy by 72%, and contributed to testing real-time AR/VR interactions, including motion tracking, voice  recognition, and sensor input validation. Certified in advanced embedded systems and Python programming, I am passionate about advancing data science and driving business outcomes.
+  - I hold certifications in advanced embedded systems and Python programming from Vector India Private Limited.
+  - My skills include Machine Learning, QA Testing, Data Visualization, Statistics, Deep Learning, and Data Structures & Algorithms. I am committed to advancing data science and QA Testing.
 
 ## WORK EXPERIENCE
+**Project Associate - QA Engineer @ Marshalls-TJx Companies, USA (_Apr 2025 – Present_).**
+  - Gained front-line experience in inventory management, returns processing, and customer support directly applicable to the SAP SD sales, order entry, and returns processes.
+  - Collaborated with back-office teams to troubleshoot barcode scanning errors, item mismatches, and inventory sync issues, mirroring defect reproduction workflows in QA.
+  - Gained exposure to retail logistics and SAP SD workflows (sales, order entry, and returns), forming a foundation for ERP system QA testing.
+  - Observed and validated performance of RFID and embedded systems in store inventory flow—experience transferable to IoT and AR/VR QA environments.
+  - Supported retail operations and high-volume environments, providing real-world understanding of logistics execution and customer service flows.
+  - Identified process bottlenecks and proposed improvements, mirroring the need for continuous improvement in SAP SD implementations.
 
-**Software Data Engineer @ Outlier AI, USA (_Jan 2024 – Present_).**
-  - Engineered and optimized scalable ETL pipelines using PySpark and AWS Glue, processing over 10 million records daily, reducing data ingestion time by 25%, and lowering operational costs by 20%.
-  - Built and deployed real-time data pipelines using Kafka, Spark Streaming, and AWS Redshift, achieving a 40% reduction in data latency and a 35% increase in processing speed for data-driven applications.
-  - Optimized query performance in AWS Redshift by applying advanced partitioning and distribution strategies, reducing data retrieval times by 30%.
-  - Automated data workflows using Apache Airflow, enhancing pipeline efficiency by 25%, reducing manual intervention by 40%, and ensuring 99% on-time data delivery to over 50 stakeholders.
-  - Implemented AWS Lambda for event-driven data processing, improving system scalability by 30% and reducing operational costs by 15% through automated orchestration of serverless functions.
-  - Designed and implemented data retention policies using AWS S3 lifecycle rules, reducing data storage costs by 18% while ensuring compliance with industry standards and improving resource utilization.
+**Software QA Engineer  - Externship @ Outlier AI, USA (_Jan 2024 – Present_).**
+  - Developed and maintained scalable CI/CD and ETL pipelines using Python, PyTorch, and SQL to process 2TB+ of structured and unstructured data daily, reducing processing time by 35% and enhancing pipeline efficiency.
+  - Spearheaded QA testing for AR/VR device integrations and immersive experiences, including smart glasses and head-mounted displays.
+  - Automated key regression tests using PyTest and Selenium, reducing manual testing efforts by 40%.
+  - Developed and maintained data pipelines using Jenkins, Git, Docker, and Databricks, automating software deployment.
+  - Supported business case development, project planning, and implementation of new underwriting solutions, ensuring improved efficiency and productivity.
+  - Automated event-driven data processing and QA Testing with AWS Lambda, increasing scalability by 30% and reducing costs by 15%.
+  - Developed and deployed ML models using PyTorch to enhance anomaly detection capabilities, directly influencing AI system performance and scalability.
+  - Improved query performance in AWS Redshift using partitioning and distribution strategies, speeding up reporting workflows.
+  - Developed Python-based dashboards using Power BI and SQL, enhancing analysis and performance monitoring for over 10 million records and streamlining data reporting by 35%.
+  - Enhanced data workflows with TensorFlow, PyTorch, AWS, and GCP, contributing to a 30% improvement in security protocols and reducing data storage costs by 15% by optimizing Azure Blob Storage and SQL Databases.
+  - Designed agile scrum environment, data workflows using CI/CD and ETL pipelines to automate data ingestion, improving process efficiency by 20%.
 
 **Graduate Research Assistant @ Gannon University - Pennsylvaina, USA (_Sept 2022 – May 2024_).**
   - Collaborated on student engagement strategies, integrating digital tools that increased participation by 25% and elevated performance assessment accuracy by 25%. Additionally, conducted research on Predicting Severity Factors (SF) in AI-based Software Applications, contributing to advancements in the field.
-  - Created dashboards using Adobe XD and Tableau, improving data accessibility for over 100 users and reducing data analysis time by 18%.
-  - Developed a real-time dashboard in Python, leveraging Pandas, NumPy, and Matplotlib to enhance data analysis accuracy, resulting in a 20% reduction in reporting time.
-  - Executed machine learning models for data analytics using Python and TensorFlow, including models such as Random Forest, Support Vector MAchine (SVM), and Large Language Model (LLM), increasing threat detection efficiency and data analysis accuracy by 38%.
-  - Utilized MySQL and other database tools like PostgreSQL and MongoDB to optimize data management and processing workflows.
- 
+  - Developed student engagement strategies with Dr. Liu using digital tools, improving performance assessment accuracy by 25%.
+  - Conducted internal training sessions for faculty on CI/CD and Azure security configurations and reduced student data reporting overhead by 35% by deploying automated, cloud-based dashboards.
+  - Developed AR-specific test scenarios including motion tracking, sensor validation, and environmental interaction edge cases.
+  - Built a real-time dashboard in Python and PyTorch, improving data analysis with Pandas, NumPy, and Matplotlib.
+  - Optimized MySQL and Oracle databases, achieving a 40% faster query speed and a 20% decrease in data retrieval time.
+  - Automated CI/CD pipelines and ETL workflows, aligning with IT methodologies used in Order-to-Cash systems and inter-module integration.
+  - Used AWS, Azure, GCP, and tools like TensorFlow and PyTorch to enhance process efficiency, relevant for SD integrations with finance and analytics teams.
+    
 **Software Development Engineer – II @ Microchip Technology Pvt Ltd - Bangalore, India(_Aug 2019 – Jul 2022_).**
-  - Designed the META-DX1 and META-DX2 systems with new APIs and refined the functionality, executing up to 92% accuracy through sophisticated statistical analyses using Python and R.
-  - Revamped data quality and usability for microprocessor controllers by 5.6% and 7.2%, respectively, by implementing thorough testing and preprocessing strategies,  including unit tests and data normalization.
-  - Implemented detailed security tests on Ethernet communications, scrutinizing encryption protocols (AES and RSA) and network defenses (firewalls and intrusion detection systems); secured data transmission.
-  - Redesigned a new data schema to accelerate processing times for AI models (Random Forest, Support Vector MAchine), integrating PyTest and Google Test for validation, which directly bolstered revenue by 20%.
-  - Executed SQL and database technologies like MySQL, PostgreSQL, and MongoDB for efficient data management and processing, including ETL workflows, database indexing, and performance tuning.
-  - Created a Python script using AES encryption, increasing data security and integrity by 11%.
+  - Collaborated with cross-functional teams to evaluate system performance, identify gaps, and design technical improvements.
+  - Applied root cause analysis to identify process and product bottlenecks within the hardware-software interface domain.
+  - Documented technical specifications and engaged in iterative QA testing to meet project goals within regulated environments.
+  - Built and executed automated test suites using Google Test and Python-based frameworks to validate low-level driver functionalities for the META-DX2 system.
+  - Participated in agile project management cycles, sprint planning, and review sessions.
+  - Promoted to the META-DX2 system, integrated key security features, and performed comprehensive manual and automation QA testing, resulting in a 29% increase in overall performance and safety.
+  - Developed new APIs for MACSec, CloudSec, and IPSec, leveraging AI techniques for data integration, optimizing data packet size, and performing encryption-decryption using Python tests.
+  - Requirements analysis, test planning, and user documentation help to enhance efficiency in insurance workflow design and validation.
+  - Enhanced the META-DX1 system by adding new APIs and improving functionality, achieving up to 40% accuracy with advanced statistical analyses.
+  - Developed and maintained CI/CD and ETL Data pipeline using IBM mainframe technologies, Python, SQL for META-DX1 APIs, optimized Linux device drivers (Ethernet, Flash, SPI, I2C) for embedded systems, cutting processing time by 40%.
+  - Led manual and automation QA of embedded networking software stacks (PTP/NTP, VLAN, IPv4/6), improving validation coverage by 35%.
+  - Executed complex automated PyTest test suites and achieved a 49% boost in META-DX1 system performance.
+  - Validated and stress-tested device drivers for Ethernet, SPI, and I2C modules on ARM-based platforms and Linux kernel systems.
+  - Designed workflow optimization strategies that improved underwriting system performance and ensured compliance with industry standards.
 
 [META-DX2](https://www.microchip.com/en-us/products/high-speed-networking-and-video/ethernet/ethernet-phys/meta-dx-family) | 
 [META-DX1](https://www.youtube.com/watch?v=fQypK7NLEBA&ab_channel=MicrosemiCorp) | 
 [METADX1_OVERVIEW](https://www.youtube.com/watch?v=yV0kBfQP8Po&ab_channel=MicrochipTechnology)
 
-**Software System Engineer @ Vector India Pvt Ltd - Bangalore, India (_Aug 2018 – Aug 2019_).**
-  - Designed firmware for embedded systems using tools like PyCharm, ARM assembly, C, and C++; raised processing speed by 20% and reduced power consumption.
-  - Formulated applications using PyCharm, ARM assembly, C, and C++, solving real-time challenges and increasing operational efficiency.
-  - Reconstructed memory management systems, using SQL and database tools like MySQL, PostgreSQL, and MongoDB, improving data integrity and communication speed by 15%.
+**Software System Test Engineer @ Vector India Pvt Ltd - Bangalore, India (_Aug 2018 – Aug 2019_).**
+  - Built data models for embedded systems, using Python and SQL to streamline reporting, and migrated legacy embedded systems to ARM-based architectures, improving efficiency by 25%.
+  - Performed manual QA on embedded prototypes, including AR-integrated hardware and custom Linux systems.
+  - Integrated UART, I2C, and SPI interfaces for embedded communication module, worked on IPv4/IPv6 networking stack implementation for custom embedded platforms.
+  - Programmed simulations and real-time applications, including a Real-Time Weather Monitoring System, enhancing usability and user retention.
 
 **Data solutions Engineer @ Redspark Technologies - Vadodara, India (_Feb 2018 - Jul 2018_).**
   - Coordinated in the development and Analysis of Python-based applications.
@@ -57,6 +81,8 @@
 **Predicting Severity Factors (SF) in AI-based Software Applications(_Aug 2023 – May 2024_).**
 **Platforms:** Radon, Pylint, PyCharm, MySQL, MongoDB, PostgreSQL Jupyter Notebook, SVM Model, LLM, Microsoft Excel, Panel, OpenAI GPT4
   - Developed the Predict Severity Factor (SF) to classify software components into Low, Medium, High, and Severe categories, improving code quality by 60% through prioritized refactoring tasks.
+  - Built an ML-based solution to classify risk levels in underwriting workflows, improving risk assessment accuracy by 60%. Developed automated reporting dashboards in Power BI, reducing manual reporting time by 40%.
+  - Conducted data quality improvements, enhancing automated QA testing for data integrity.
   - Created custom tools using Radon and Pylint to assess technical debt in eight open-source Python projects, identifying improvement areas by over 80%.
   - Integrated Large Language Models (LLMs) into the development workflow, automating complex code refactoring tasks, reducing technical debt by 40%, and saving the development team 60+ hours per month.
   - Implemented SQL queries, including MySQL, PostgreSQL, and MongoDB, for efficient data management and processing, such as query optimization, data migration, and performance tuning.
@@ -89,10 +115,12 @@ M.Sc., Data Science | Gannon University, Erie, Pennsylvaina, USA.
 B.E., Information Technology | Gujarat Technological University Gujarat, India.
 
 ## PROFESSIONAL EXPERTISE
-  - **Programming Languages:** Python, Java, JavaScript, R, MySQL.
+  - **Programming Languages:** Python, Java, JavaScript, R, MySQL, Shell Scripting.
   - **Tools:** Tableau, Power BI, Qilk Sense, PyTorch, PyCharm, Pyint, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, OpenAI GPT-4, TensorFlow, SVM, NLP Services, MS-Excel.
-  - **DBs and Infrastructures:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure.
-  - **Embedded systems:** UART, I2C, SPI protocols, ARM7 microprocessor, 8051 microprocessor controllers.
+  - **QA Tools:** Selenium, PyTest, Appium, Postman, JIRA, Git, Jenkins.
+  - **Cloud & Technologies:** AWS, Google Cloud Platform (GCP), Oracle, Azure, Git, Docker, Kubernetes, Terraform.
+  - **Embedded systems:** Linux kernel, Yocto, Device Drivers, UART, I2C, SPI protocols, ARM7 microprocessor, 8051 microprocessor controllers.
+  - **Networking Protocols:** PTP, NTP, TCP/IP, VLAN, IPv4/IPv6, Routing, Firewall.
   - **Development Skills:** Data structures and Algorithms, Linux, GDB Debugging, Microsoft Office 365.
 
 ## AWARDS AND CERTIFICATIONS
